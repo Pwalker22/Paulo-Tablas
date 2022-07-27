@@ -1,0 +1,11 @@
+table, caption{
+    border: 2px  solid rgb(255, 255, 255);
+    border-bottom: black;
+}
+thead tr,th,td, caption {
+    background-color: rgba(14, 197, 230, 0.904);
+    
+}
+tbody ,td, caption{
+    background-color: rgb(11, 195, 228);
+} 
